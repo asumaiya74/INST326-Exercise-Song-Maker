@@ -35,7 +35,5 @@ attribute.
 - Write an info() method with one parameter self. This method should return a single string
 which contains a message letting the user know the songs name, artists, chords and beats
 per minute.
-
-Write docstrings for each method. (__init__() doesn’t need a docstring.)
-
-Write  an  if  __name__  ==  "__main__":  statement  in  which  you  create  an  instance  of  your  class and  invoke  each  method  (you  don’t  have  to  explicitly  invoke  __init__()).  You  may  wanna  print the returned value of the info() method for testing the output of your script.
+- Write docstrings for each method. (__init__() doesn’t need a docstring.)
+- Write  an  if  __name__  ==  "__main__":  statement  in  which  you  create  an  instance  of  your  class and  invoke  each  method  (you  don’t  have  to  explicitly  invoke  __init__()).  You  may  wanna  print the returned value of the info() method for testing the output of your script.
